@@ -10,7 +10,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const meta = {
     title: "Sachin C - Developer, Writer, Creator and YouTuber",
     description: `I've been developing websites for 5 years straight. Get in touch with me to know more.`,
-    image: "/sachin.jpg",
+    image: "/sachin-avatar.jpg",
     type: "website",
     ...customMeta,
   };

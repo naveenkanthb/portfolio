@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "sachin1245",
   name: "Sachin C",
   designation: "Full-Stack Developer",
-  avatarUrl: "/sachin.jpg",
+  avatarUrl: "/sachin-avatar.jpg",
   email: "sachinwh@gmail.com",
   phone: "+91 9880158343",
   address: "Bangalore, India.",
