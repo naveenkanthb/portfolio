@@ -1,10 +1,10 @@
 const userData = {
-  githubUsername: "sachin1245",
-  name: "Sachin C",
-  designation: "Full-Stack Developer",
+  githubUsername: "naveenkanthb",
+  name: "Naveenkanth B",
+  designation: "Front-end Developer",
   avatarUrl: "/sachin-avatar.jpg",
-  email: "sachinwh@gmail.com",
-  phone: "+91 9880158343",
+  email: "naveenkanth033@gmail.com",
+  phone: "+91 8147476280",
   address: "Bangalore, India.",
   projects: [
     {
@@ -40,13 +40,6 @@ const userData = {
       companyLink: "https://springboard.com",
       desc: "Worked as a sole frontend developer and grew to a Principal Software Engineer. Led the development and implementation of a dynamic course launch dashboard, reducing course launch duration from 6 weeks to 1 week by streamlining the process. Led cross-functional teams throughout the projects, gathering requirements, and ensuring successful delivery of the end product",
     },
-    // {
-    //   title: "Lead Software Engineer",
-    //   company: "Bukuwarung",
-    //   year: "2021",
-    //   companyLink: "https://bukuwarung.com",
-    //   desc: "Built the KYC web view to onboard new merchants",
-    // },
     {
       title: "Software Engineer",
       company: "Hewlett Packard Enterprise",
@@ -58,10 +51,10 @@ const userData = {
   resumeUrl:
     "/resume.pdf",
   socialLinks: {
-    instagram: "https://www.instagram.com/sachin__c/",
+    // instagram: "https://www.instagram.com/sachin__c/",
     // twitter: "https://twitter.com/",
-    linkedin: "https://www.linkedin.com/in/sachin-c/",
-    github: "https://github.com/sachin1245",
+    // linkedin: "https://www.linkedin.com/in/sachin-c/",
+    github: "https://github.com/naveenkanthb",
     // facebook: "https://facebook.com/",
   },
 };
