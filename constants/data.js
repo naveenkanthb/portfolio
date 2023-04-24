@@ -14,7 +14,7 @@ const userData = {
     },
     {
       title: "Portfolio",
-      link: "https://portfolio-sachin1245.vercel.app",
+      link: "https://portfolio-naveenkanthb.vercel.app/",
       imgUrl: "/portfolio-dark.png",
     },
     {
